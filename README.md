@@ -14,4 +14,7 @@ Flatten layer to squeeze the layers into 1 dimension<br />
 Dense Fully connected layer (256 nodes, activation=”relu”)<br />
 Dropout layer (rate=0.5)<br />
 Dense layer (43 nodes, activation=”softmax”)
-*   
+*   ![image](https://user-images.githubusercontent.com/21165474/148165493-bb1fa7c7-8f67-494b-9f07-0c833e1e1c19.png)
+
+![image](https://user-images.githubusercontent.com/21165474/148165728-163dba95-ad1d-4133-a673-caeb2fdb238b.png)
+![image](https://user-images.githubusercontent.com/21165474/148165770-752a045e-d304-42e2-8d8d-7ae84af0a212.png)
